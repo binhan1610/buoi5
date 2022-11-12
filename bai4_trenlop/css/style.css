@@ -1,0 +1,39 @@
+header{
+    color: white;
+    background-color: aquamarine;
+    padding: 1px 0px 4px 0px;
+}
+.xulydongdau{
+    color: blueviolet;
+    display:flex;
+    justify-content:left;
+    
+}
+.main{
+    width: 25%;
+    border-color: rgb(129, 111, 230);
+    
+}
+button{
+    background-color:rgb(161, 233, 233);
+    color: white;
+}
+.phanba{
+    display: flex;
+    justify-content:space-between;
+}
+img{
+    width: 241px;
+}
+.an{
+    width: 40%;
+}
+.binh{
+    width:78px;
+}
+.dang{
+    background-color:rgb(179, 149, 208);
+}
+.noidung{
+    width: 197px;
+}
